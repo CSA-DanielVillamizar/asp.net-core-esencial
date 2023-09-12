@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Cinema.Api.Artists/bin
+/Cinema.Api.Artists/obj
+/Cinema.Api.Movies/bin
+/Cinema.Api.Movies/obj
+/.vs
