@@ -17,25 +17,25 @@ namespace ListaCursos.Providers
             {
                 Id = 1,
                 Name = "Azure DevOps y VSTS esencial",
-                Author = "Rodrigo Díaz Concha",
+                Author = "Daniel Villamizar",
                 Description = "Conoce los principios, herramientas y técnicas de Azure DevOps y Visual Studio .NET. Amplia y mejora tus conocimientos sobre Azure Repos, Azure Pipelines, Azure Boards, Azure Test Plans y Azure Artifacts. Consigue entregar software de mejor calidad en menos tiempo y asegura un desarrollo exitoso en proyectos de cualquier tipo de tamaño.",
-                Uri = "https://www.linkedin.com/learning/azure-devops-y-vsts-esencial"
+                Uri = "https://github.com/CSA-DanielVillamizar/asp.net-core-esencial/"
             });
             repo.Add(new Course()
             {
                 Id = 2,
                 Name = "Azure Functions esencial",
-                Author = "Rodrigo Díaz Concha",
+                Author = "Daniel Villamizar",
                 Description = "Aprende Azure Functions como tecnología y plataforma de desarrollo de aplicaciones. Conoce cuáles son los beneficios de una arquitectura Serverless y sus características. Domina el desarrollo desde Visual Studio .NET y sus conceptos clave: cómo se monitoriza, cómo se despliega, qué son los Triggers o los Bindings o cómo hacer depuración y pruebas, entre otros conocimientos esenciales.",
-                Uri = "https://www.linkedin.com/learning/azure-functions-esencial"
+                Uri = "https://github.com/CSA-DanielVillamizar/asp.net-core-esencial/"
             });
             repo.Add(new Course()
             {
                 Id = 3,
                 Name = "Azure: Internet de las cosas esencial",
-                Author = "Rodrigo Díaz Concha",
+                Author = "Daniel Villamizar",
                 Description = "Descubre Microsoft Azure para el envío y recepción de mensajes hacia y desde dispositivos Internet of Things. Conoce y domina todos los conceptos fundamentales de Azure IoT Solution Accelerators y Azure IoT Central, las piezas clave en las soluciones de Microsoft para IoT, y que se presentan como opciones Software-As-A-Service (SaaS) para la creación, implementación y administración de soluciones IoT de una forma rápida y sencilla.",
-                Uri = "https://www.linkedin.com/learning/azure-internet-de-las-cosas-esencial"
+                Uri = "https://github.com/CSA-DanielVillamizar/asp.net-core-esencial/"
             });
         }
 
